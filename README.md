@@ -1,2 +1,2 @@
-# GMV
-It's GTD but for vulnerabilities - Getting More Vulns!
+# gtd-of-yore
+Some really old code that does GTD
